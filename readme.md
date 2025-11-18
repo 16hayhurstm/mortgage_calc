@@ -6,7 +6,7 @@ Useful for comparing scenarios such as *standard repayment* vs *overpaying £X p
 ---
 
 ## Example 
-Replace variable in the under the # Example Use heading to your numbers and run :)
+Replace variable  under the # Example Use heading to your numbers and run :)
 
 ---
 
